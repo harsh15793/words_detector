@@ -1,2 +1,4 @@
 # words_detector
-Checking if list of words defined in an excel are present in the text of user
+Checking if the list of words defined in excel are present in the text of the user
+
+Run "npm run start" to start the dev environment
