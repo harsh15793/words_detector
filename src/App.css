@@ -1,0 +1,5 @@
+.highlighted-word {
+  color: red; /* Change font color to red for highlighted words */
+  font-weight: bold; /* Optionally make the text bold */
+  /* You can add more styles here as needed */
+}
